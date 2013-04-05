@@ -1,3 +1,6 @@
+(*
+``` AppleScript
+*)
 tell application "Adobe InDesign CS5.5"
   set vApp to it
 	set vDocCount to count documents
